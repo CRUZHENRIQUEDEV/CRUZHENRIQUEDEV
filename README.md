@@ -39,8 +39,10 @@ Dynamo, Illustrator, Indesign, Photoshop, Excel, 3D print, Navisworks.
 
 ## 📊 GitHub Stats
 
-![Henrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cruzHenriqueDev&show_icons=true&theme=github_dark_dimmed)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cruzHenriqueDev&layout=compact&theme=github_dark_dimmed)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=cruzHenriqueDev&show_icons=true&theme=github_dark_dimmed" alt="Henrique's GitHub Stats" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cruzHenriqueDev&layout=compact&theme=github_dark_dimmed" alt="Most Used Languages" style="height: 200px;"/>
+</div>
 
 ### 🚀 Featured Projects
 
