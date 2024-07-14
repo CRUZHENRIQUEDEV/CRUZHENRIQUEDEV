@@ -5,11 +5,11 @@
 - 🎓 I'm an architect and urban planner, BIM solutions programmer.
 - 📖 I'm pursuing a postgraduate degree in software engineering and an MBA in Project Management and Agile Methodologies.
 - 💼 Specialist in BIM, parametric modeling, rendering, and project coordination.
-- 🌱 Learning more about {HTML, CSS, JavaScript, Java}.
+- 🌱 Learning more about {HTML, CSS, JavaScript, Java, Typescript, React}.
 
 ## My Skills
 
-Skills: Revit, BIM, Autocad, Enscape, SketchUp, Promob, V-ray, C#, Python,
+Skills: Revit, BIM, Autocad, Enscape, SketchUp, Promob, V-ray, C#, Python,Typescript, React
 Dynamo, Illustrator, Indesign, Photoshop, Excel, 3D print, Navisworks.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
