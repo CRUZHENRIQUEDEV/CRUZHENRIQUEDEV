@@ -5,7 +5,7 @@
 - 🎓 I'm an architect and urban planner, BIM solutions programmer.
 - 📖 I'm pursuing a postgraduate degree in software engineering and an MBA in Project Management and Agile Methodologies.
 - 💼 Specialist in BIM, parametric modeling, rendering, and project coordination.
-- 🌱 Learning more about {HTML, CSS, JavaScript, Java, Typescript, React}.
+- 🌱 Learning more about HTML, CSS, JavaScript, Java, Typescript, React.
 
 ## My Skills
 
